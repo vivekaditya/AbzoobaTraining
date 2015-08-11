@@ -2,7 +2,6 @@
 public class ExtraProblem1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int depth=100,cnt=0;
 		for(int j=0;j<=1000;j++)
 		{
